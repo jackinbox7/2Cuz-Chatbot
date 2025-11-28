@@ -1,9 +1,7 @@
 # 2Cuz Chatbot
 
 ## Overview
-**2Cuz Chatbot** is a beginner‑friendly Python project that simulates a simple conversational agent with multiple personalities. The chatbot responds to user inputs with randomized answers from two fictional characters — *Hibatron* and *Rosh2D2*. It demonstrates basic concepts of rule‑based AI, randomness in responses, and interactive text‑based communication.
-
-This project was designed as a first‑semester AI/ML assignment worth 5 marks, focusing on clarity, simplicity, and creativity rather than complex algorithms.
+**2Cuz Chatbot** 
 
 ---
 
