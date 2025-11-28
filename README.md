@@ -73,8 +73,3 @@
     → Program ends with a goodbye message.
 
 ---
-
-## Notes
-- This chatbot is rule‑based and does not use machine learning.  
-- It is intended as a simple demonstration project for beginners in AI/ML.  
-- You can expand it by adding more intents, responses, or even integrating audio playback for recorded voices.
