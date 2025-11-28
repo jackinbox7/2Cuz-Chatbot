@@ -5,7 +5,7 @@ print("Hello! We’re 2Cuz. Type 'bye' to exit.\n")
 # Responses grouped by intent, with different responses
 greeting_responses = [
     "Hibatron: Hola Amigo ",
-    "Rosh2D2t: Hello! Im Roshbot and I like cheese",
+    "Rosh2D2: Hello! Im 2nd generation Rosheenbotic Droid series-2 and I like cheese",
 ]
 
 greet_responses = [
@@ -17,7 +17,6 @@ fallback_responses = [
     " Hibatron: Sorry, I cant respond to that yet.",
     " Rosh2D2: Request denied.",
     " Rosh2D2: Idk bro, I’m just a 5‑mark project ."
-
     " Rosh2D2: Go ask Chatgpt that lol.",
 ]
 
@@ -28,7 +27,6 @@ joke_responses = [
     " Hibatron: Why did the math book look sad? Because it had too many problems.",
     " Hibatron: What do you get when you cross a snowman and a vampire? Frostbite!",
     " Hibatron: Why don’t skeletons fight each other? They don’t have the guts."
-
     " Hibatron: Why was 6 scared of 7? Because 7 8(ATE) 9."
 
 ]
