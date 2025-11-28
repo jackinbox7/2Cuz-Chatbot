@@ -1,0 +1,96 @@
+________________________________________
+📘 Project Report: 2Cuz Chatbot
+________________________________________
+1. Cover Page
+•	Title: 2Cuz Chatbot
+•	Course: Artificial Intelligence and Machine Learning – First Semester
+•	Submitted by: [Mohammad Faiz Khan]
+•	Roll Number: [25BSA10045]
+________________________________________
+2. Introduction
+This is a simple chatbot I made using 2 of my cousins(Hiba for Hibatron Rosheen for Rosh2D2 ), by recording their responses and using those as the answers of the chatbot, Ive put in multiple "out of the ordinary questions" in here and easter eggs that the user can ask and have fun with. Try asking who the strongest bot is, or how to lose weight..
+________________________________________
+3. Problem Statement
+Students in introductory AI/ML courses often need simple projects that demonstrate core concepts without requiring complex algorithms. Traditional chatbot examples can be repetitive or overly advanced. This project solves that by creating a lightweight, creative chatbot that showcases rule based responses, multiple personas, and randomized outputs.
+________________________________________
+4. Functional Requirements
+1.	Accept user input via command line.
+2.	Respond to greetings with randomized persona specific replies.
+3.	Provide jokes when prompted with the keyword “joke.”
+4.	Answer simple queries such as “how are you” or “strongest robot.”
+5.	Offer randomized fallback responses when input does not match any rule.
+6.	Exit gracefully when the user types “bye.”
+________________________________________
+5. Non Functional Requirements
+•	Usability: Simple and intuitive for beginners.
+•	Reliability: Consistent responses without crashing.
+•	Maintainability: Easy to extend with new rules and responses.
+•	Performance: Fast response time with minimal resource usage.
+•	Portability: Runs on any system with Python 3.x installed.
+________________________________________
+6. System Architecture
+The chatbot follows a simple architecture:
+•	Input Layer: Accepts user text input.
+•	Processing Layer: Matches input against predefined rules and selects responses.
+•	Randomization Module: Chooses a random response from available options.
+•	Output Layer: Displays the chatbot’s reply in the terminal.
+(Insert a block diagram here with arrows showing Input → Processing → Output.)
+________________________________________
+7. Design Diagrams
+7.1 Use Case Diagram
+Shows user interacting with chatbot for greetings, jokes, queries, and exit.
+7.2 Workflow Diagram
+Flowchart: Start → User Input → Rule Matching → Response → Loop/Exit.
+7.3 Sequence Diagram
+User sends input → Chatbot processes → Chatbot returns response.
+7.4 Class/Component Diagram
+Single Chatbot class with methods for get_response(), random_choice(), and run().
+7.5 ER Diagram (optional if storage used later)
+Entity: Response (response_id, category, text).
+________________________________________
+8. Design Decisions & Rationale
+•	Rule based approach: Chosen for simplicity and clarity in a beginner project.
+•	Randomization: Adds variety to responses, making the chatbot feel less repetitive.
+•	Multiple personas: Enhances engagement and creativity.
+•	Text based interface: Keeps the project lightweight and easy to run.
+________________________________________
+9. Implementation Details
+•	Language: Python 3.x
+•	Libraries: random for randomized responses
+•	Input/Output: Command line interaction
+•	Structure: Lists of responses grouped by intent (greeting, joke, fallback, etc.)
+________________________________________
+10. Screenshots / Results
+(Insert screenshots of your chatbot running in the terminal, showing greetings, jokes, fallback responses, and exit message.)
+________________________________________
+11. Testing Approach
+•	Unit Testing: Verified each intent (greeting, joke, query, fallback, exit).
+•	Functional Testing: Ensured chatbot responds correctly to expected inputs.
+•	Boundary Testing: Checked behavior with unexpected inputs (nonsense text).
+•	Exit Testing: Confirmed chatbot terminates correctly when “bye” is entered.
+________________________________________
+12. Challenges Faced
+•	Handling multiple responses without repetition.
+•	Ensuring proper indentation and syntax in Python.
+•	Managing response lists with commas and formatting.
+•	Balancing humor with professionalism in chatbot replies.
+________________________________________
+13. Learnings & Key Takeaways
+•	Gained practical experience in Python programming.
+•	Understood rule based AI systems and their limitations.
+•	Learned how randomness can improve user experience.
+•	Realized the importance of clean code and documentation.
+________________________________________
+14. Future Enhancements
+•	Add audio playback for recorded cousin voices.
+•	Integrate NLP libraries (NLTK, spaCy) for smarter text processing.
+•	Expand response categories (e.g., facts, riddles, trivia).
+•	Create a GUI interface for better user interaction.
+•	Store responses in a database for easier management.
+________________________________________
+15. References
+•	Python Documentation: https://docs.python.org/3/
+•	TutorialsPoint – Python Basics
+•	Scikit learn Documentation (for future ML integration): https://scikit-learn.org/
+•	UCI Machine Learning Repository (datasets for extended projects)
+
