@@ -1,13 +1,12 @@
 # Statement
 
 ## Problem Statement
-Many beginner AI/ML students struggle to find projects that are simple yet engaging enough to demonstrate core concepts. Traditional chatbot examples often feel repetitive or overly complex for first‑semester learners. This project addresses the need for a lightweight, creative chatbot that showcases rule‑based responses, randomness, and multiple personas without requiring advanced algorithms.
+Heres a project that is simple yet engaging enough to demonstrate core concepts. Traditional chatbot examples often feel repetitive or overly complex for first‑semester learners. This project addresses the need for a lightweight, creative chatbot that showcases rule‑based responses, randomness, and multiple personas without requiring advanced algorithms.
 
 ## Scope of the Project
-The project is scoped as a text‑based chatbot implemented in Python. It focuses on rule‑based responses triggered by keywords, with randomized outputs to make conversations feel less predictable. The chatbot introduces multiple fictional personas (Hibatron and Rosh2D2) to add variety and personality. The scope is intentionally kept minimal to ensure ease of use, clarity, and suitability for a 5‑mark introductory assignment.
+The project is scoped as a text‑based chatbot implemented in Python. It focuses on rule‑based responses triggered by keywords, with randomized outputs to make conversations feel less predictable. The chatbot introduces multiple fictional personas (Hibatron and Rosh2D2) to add variety and personality. 
 
 ## Target Users
-- First‑year AI/ML students looking for beginner‑friendly projects  
 - Educators who want simple examples to demonstrate chatbot concepts  
 - Hobbyists interested in experimenting with conversational agents without complex setup  
 
