@@ -11,7 +11,7 @@ ________________________________________
 This is a simple chatbot I made using 2 of my cousins(Hiba for Hibatron Rosheen for Rosh2D2 ), by recording their responses and using those as the answers of the chatbot, Ive put in multiple "out of the ordinary questions" in here and easter eggs that the user can ask and have fun with. Try asking who the strongest bot is, or how to lose weight..
 ________________________________________
 3. Problem Statement
-Students in introductory AI/ML courses often need simple projects that demonstrate core concepts without requiring complex algorithms. Traditional chatbot examples can be repetitive or overly advanced. This project solves that by creating a lightweight, creative chatbot that showcases rule based responses, multiple personas, and randomized outputs.
+Heres a simple project that demonstrates core concepts without requiring complex algorithms. Traditional chatbot examples can be repetitive or overly advanced. This project solves that by creating a lightweight, creative chatbot that showcases rule based responses, multiple personas, and randomized outputs.
 ________________________________________
 4. Functional Requirements
 1.	Accept user input via command line.
